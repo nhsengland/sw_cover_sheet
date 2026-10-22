@@ -1,11 +1,9 @@
-# Ways of working guidance 
+# SW Analytical Cover Sheet
 ## NHS England South West Insights and Intelligence
 
 ### About the Report/Code
 
-This repository holds code for the ways of working guidance webpages.
-
-[https://nhsengland.github.io/SW_ways_of_working/](https://nhsengland.github.io/SW_ways_of_working/)
+This repository holds code for Quarto version of SW Insights and Intelligence Cover Sheet
 
 
 ### Report/Code Overview
@@ -14,25 +12,21 @@ This repository holds code for the ways of working guidance webpages.
 
 **Subject area:** Team development
 
-**Purpose:** Overview of best practice for analytical processes within team
+**Purpose:** Template for cover sheet
 
 **Audience:** For use internally within the team
 
 **Frequency:** As required
 
-**Output type:** Github pages
+**Output type:** To be incorporated into quarto reports
 
-**Distribution:** Pages have URL and is public
+**Distribution:** this cover sheet is public
 
-**Quality assurance:** Pages are under development
+**Quality assurance:** Gold
 
 ### Built With
 
 [R Studio](http://www.rstudio.com/.)  
-[R Statistical Software](https://www.R-project.org/.)  
-
-- usethis
-- quarto
 
 ### Getting Started
 
@@ -42,14 +36,14 @@ To get a local copy up and running follow these simple steps.
 
 To clone the repo:
 
-`git clone` [https://github.com/nhsengland/SW_ways_of_working](https://github.com/nhsengland/SW_ways_of_working)
+`git clone` [https://github.com/nhsengland/SW_ways_of_working](https://github.com/nhsengland/sw_cover_sheet)
 
 
 ### Usage
-Site built in markdown and quarto
+Template to be added to quarto reports
 
 #### Outputs
-Github webpages
+A cover page to record meta data within quarto reports
 
 #### Datasets
 No datasets are used.
@@ -58,7 +52,7 @@ No datasets are used.
 None
 
 ### Dependants or child code
-None
+This should be included in all quarto reports.
 
 ### Test data
 Not applicable
