@@ -6,6 +6,8 @@ editor: visual
 
 <!-- Start of cover sheet -->
 
+![](logo.png){fig-align="right"}
+
 ::: {.callout-tip appearance="default" icon="true" collapse="true"}
 
 ## UEC Flashcard - Click for Cover Sheet
