@@ -1,7 +1,9 @@
 ---
 title: ""
 format: html
+self-contained: true
 editor: visual
+
 ---
 
 <!-- Start of cover sheet -->
@@ -26,8 +28,7 @@ It displays at a region, system and provider level with a comparison to previous
 :::
 ::: {.column width="80%"}
 <p style="color:red;">
-This product shows sitrep metrics across a&e, bed occupancy, ambulance and staffing from daily sitreps. 
-It displays at a region, system and provider level with a comparison to previous day and month to date. Please note this is not a performance monitoring tool
+Data is unpublished and unvalidated and should not be shared or circulated outside the NHS in the South West region
 </p>
 :::	
 ::::
@@ -57,9 +58,9 @@ It displays at a region, system and provider level with a comparison to previous
 **Data Sources**
 :::
 ::: {.column width="80%"}
-Urgent and Emergency Care Daily Situation Report
-Acute Discharge Situation Report
-Ambulance Daily Sitrep
+[Urgent and Emergency Care Daily Situation Report](https://www.england.nhs.uk/statistics/statistical-work-areas/bed-availability-and-occupancy/critical-care-and-general-acute-beds-urgent-and-emergency-care-daily-situation-reports/)  
+[Acute Discharge Situation Report](https://www.england.nhs.uk/statistics/statistical-work-areas/discharge-delays/acute-discharge-situation-report/)  
+Ambulance Daily Sitrep  
 :::	
 ::: {.column width="20%"}
 **Key Contacts**
@@ -104,7 +105,7 @@ None recorded
 None recorded
 :::
 ::: {.column width="20%"}
-**File location**
+**File Location**
 :::	
 ::: {.column width="80%"}
 [https://future.nhs.uk/SouthWestAnalytics/view?objectID=75715024](https://future.nhs.uk/SouthWestAnalytics/view?objectID=75715024)
@@ -113,11 +114,11 @@ None recorded
 :::: 
 
   \
-  
+
 :::: {style="background-color: #D3D3D3; border-radius: 5px; padding: 20px;"}
 :::: {.columns}
 ::: {.column width="20%"}
-**Internal file location**
+**Internal File Location**
 :::
 ::: {.column width="80%"}
 [Sharepoint Link](https://nhs.sharepoint.com/:f:/r/sites/InsightsIntelligenceteam/Shared%20Documents/01%20-%20Analysis/02%20-%20UEC/05%20-%20Operational%20Management/01%20-%20Routine/02%20-%20UEC%20Flashcard?d=wa09aede77e704ad399e08b48e193d50b&csf=1&web=1&e=dmAqCf)
